@@ -1,0 +1,21 @@
+.container{
+    width: 100%;
+    height: 400px;
+    background-color: blueviolet;
+    display: flex;
+    gap: 20px;
+    
+}
+
+.flexitem{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+}
+/* #divfirst{
+    order: 4;
+}
+
+#lastdiv{
+    order: 1;
+} */
